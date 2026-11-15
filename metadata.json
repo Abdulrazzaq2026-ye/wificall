@@ -1,0 +1,10 @@
+{
+  "name": "اتصال wifi",
+  "description": "تطبيق اتصال ومراسلة عبر شبكة الواي فاي المحلية مع خدمة مراقبة الشبكة mDNS وتشفير طرف لطرف AES-256-GCM",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

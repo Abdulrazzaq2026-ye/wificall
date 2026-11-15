@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">اتصال wifi</string>
+    <string name="app_tagline">اتصال ومراسلة محلية مشفرة</string>
+    <string name="tab_chats">المحادثات</string>
+    <string name="tab_network">المتصلون</string>
+    <string name="tab_calls">المكالمات</string>
+    <string name="tab_security">الخصوصية</string>
+</resources>
